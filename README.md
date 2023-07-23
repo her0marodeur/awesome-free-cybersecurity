@@ -10,7 +10,15 @@ If you have any further resources, feel free to open a pull request.
 - [MICS - Introduction to Cybersecurity](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html) (Cert) Mossé provides an entry level certification for cybersecurity. The course is hands on, but submitting exercises is a bit annoying.
 
 ## Pentesting
+- [APISec UNiversity](https://www.apisecuniversity.com/) (Cert) Free couses about API pentesting and security.
+- [Ethical Hacking Essentials](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false) (Cert) Fundamentals course about Ethical Hacking on EC-Councils Code Red.
+- [Android Bug Bounty Hunting like a rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat?logged=false)(Cert) Fundamentals course about Android Pentesting and Bug Bounty Hunting on EC-Councils Code Red.
 
 ## Blue Team
+- [Digital Forensics Essentials](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false) (Cert) Fundamentals course about DFIR on EC-Councils Code Red.
+- [Network Defense Essentials](https://codered.eccouncil.org/course/network-defense-essentials?logged=false) (Cert) Fundamentals course about Network Defense on EC-Councils Code Red.
 
 ## OSINT
+
+## Threat Intelligence
+- [AttackIQ Academy](https://academy.attackiq.com/) (Cert) They provide free courses about MITRE ATT&CK, Purple Teaming and Breach SImulation. The courses have great production value and are full of knowledge.
