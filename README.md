@@ -17,8 +17,11 @@ If you have any further resources, feel free to open a pull request.
 ## Blue Team
 - [Digital Forensics Essentials](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false) (Cert) Fundamentals course about DFIR on EC-Councils Code Red.
 - [Network Defense Essentials](https://codered.eccouncil.org/course/network-defense-essentials?logged=false) (Cert) Fundamentals course about Network Defense on EC-Councils Code Red.
+- [SANS Summits](https://www.sans.org/cyber-security-training-events/) SANS hosts different summits throughout the year, many of them are only and free and you can check the replays [here](https://www.youtube.com/@SANSCyberDefense/playlists).
 
 ## OSINT
-
+- [SANS OSINT Summit](https://www.sans.org/cyber-security-training-events/osint-summit-2023/) Yearly free OSINT summit. The replays can be watched [here](https://www.youtube.com/@SANSCyberDefense/playlists).
+- [The Cyber Mentor OSINT course](https://www.youtube.com/watch?v=qwA6MmbeGNo&pp=ygUWb3NpbnQgdGhlIGN5YmVyIG1lbnRvcg%3D%3D) This OSINT course is provided by TCM for free on YouTube. It is a good place to get started.
+  
 ## Threat Intelligence
 - [AttackIQ Academy](https://academy.attackiq.com/) (Cert) They provide free courses about MITRE ATT&CK, Purple Teaming and Breach SImulation. The courses have great production value and are full of knowledge.
