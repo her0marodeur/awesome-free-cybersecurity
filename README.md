@@ -1,4 +1,4 @@
-# awesome-free-cybersecurity
+# Awesome Free Cybersecurity
 A curated list of free cybersecurity learning resources.
 If you have any further resources, feel free to open a pull request.
 
@@ -12,7 +12,7 @@ If you have any further resources, feel free to open a pull request.
 ## Pentesting
 - [APISec UNiversity](https://www.apisecuniversity.com/) (Cert) Free couses about API pentesting and security.
 - [Ethical Hacking Essentials](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false) (Cert) Fundamentals course about Ethical Hacking on EC-Councils Code Red.
-- [Android Bug Bounty Hunting like a rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat?logged=false)(Cert) Fundamentals course about Android Pentesting and Bug Bounty Hunting on EC-Councils Code Red.
+- [Android Bug Bounty Hunting like a rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat?logged=false) (Cert) Fundamentals course about Android Pentesting and Bug Bounty Hunting on EC-Councils Code Red.
 
 ## Blue Team
 - [Digital Forensics Essentials](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false) (Cert) Fundamentals course about DFIR on EC-Councils Code Red.
