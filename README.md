@@ -27,6 +27,7 @@ If you have any further resources, feel free to open a pull request.
 ## OSINT
 - [SANS OSINT Summit](https://www.sans.org/cyber-security-training-events/osint-summit-2023/) Yearly free OSINT summit. The replays can be watched [here](https://www.youtube.com/@SANSCyberDefense/playlists).
 - [The Cyber Mentor OSINT course](https://www.youtube.com/watch?v=qwA6MmbeGNo&pp=ygUWb3NpbnQgdGhlIGN5YmVyIG1lbnRvcg%3D%3D) This OSINT course is provided by TCM for free on YouTube. It is a good place to get started.
+- [OSINT Mini - The CyberInstitute](https://courses.thecyberinst.org/courses/osintmini) Short, free OSINT course covering some essentials.
   
 ## Threat Intelligence
 - [AttackIQ Academy](https://academy.attackiq.com/) (Cert) They provide free courses about MITRE ATT&CK, Purple Teaming and Breach SImulation. The courses have great production value and are full of knowledge.
