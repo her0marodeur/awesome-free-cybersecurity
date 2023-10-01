@@ -18,6 +18,7 @@ If you have any further resources, feel free to open a pull request.
 - [APISec UNiversity](https://www.apisecuniversity.com/) (Cert) Free couses about API pentesting and security.
 - [Ethical Hacking Essentials](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false) (Cert) Fundamentals course about Ethical Hacking on EC-Councils Code Red.
 - [Android Bug Bounty Hunting like a rat](https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat?logged=false) (Cert) Fundamentals course about Android Pentesting and Bug Bounty Hunting on EC-Councils Code Red.
+- [Cisco- SkillasForAll Ethical Hacker](https://skillsforall.com/course/ethical-hacker?courseLang=en-US) (Cert) A self study course about the basics of Ethical Hacking.
 
 ## Blue Team
 - [Digital Forensics Essentials](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false) (Cert) Fundamentals course about DFIR on EC-Councils Code Red.
@@ -31,3 +32,4 @@ If you have any further resources, feel free to open a pull request.
   
 ## Threat Intelligence
 - [AttackIQ Academy](https://academy.attackiq.com/) (Cert) They provide free courses about MITRE ATT&CK, Purple Teaming and Breach SImulation. The courses have great production value and are full of knowledge.
+- [CTI Self Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) A series of blog posts that talk about learning the basics of CTI on your own.
