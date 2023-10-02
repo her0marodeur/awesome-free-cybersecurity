@@ -8,6 +8,7 @@ If you have any further resources, feel free to open a pull request.
 - [ISC2 Certified in Cybersecurity](https://www.isc2.org/Landing/1MCC) (Cert) ISC2 is curently giving away 1 million courses and exams for their new Certified in Cybersecurity certification. (maintenance fees have to be paid)
 - [Certified Secure](https://www.certifiedsecure.com/) (Cert) offers courses about cybersecurity. You have to work through the basic levels to take the more advanced exams. But it is pretty quick and comes with badges.
 - [MICS - Introduction to Cybersecurity](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html) (Cert) Mossé provides an entry level certification for cybersecurity. The course is hands on, but submitting exercises is a bit annoying.
+- [Antisyphon - Pay What You Can](https://www.antisyphontraining.com/pay-what-you-can/) (Cert) Antisyphon offers many Pay What You Can classes that can be taken for free. They are taught live and are of excellent quality.
 
 ## Hands On Labs
 - [TryHackMe](https://tryhackme.com/) (Cert) This website provides many hands on labs about different cybersecurity topics. They also have a lot of good courses combining theory and practice. Some more advanced courses may be paid only.
