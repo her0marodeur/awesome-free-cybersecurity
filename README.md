@@ -14,7 +14,8 @@ If you have any further resources, feel free to open a pull request.
 - [TryHackMe](https://tryhackme.com/) (Cert) This website provides many hands on labs about different cybersecurity topics. They also have a lot of good courses combining theory and practice. Some more advanced courses may be paid only.
 - [Hack The Box](https://www.hackthebox.com/) (Cert) This website provides many hands on labs about different cybersecurity topics. They are not as guided as some of the TryHackMe courses, but have really good machines. Some more advanced courses may be paid only.
 - [VulnHUb](https://www.vulnhub.com/) They provide free to download vulnerable machines.
-- [YesWeHack Dojo](https://dojo-yeswehack.com/learn) This website offers many lessons targeting specific CWEs and Bug Categories that are highly relevant for Bug Bounty Programs. In addition to that, there are monthly challenges where the winner gets free Swag. 
+- [YesWeHack Dojo](https://dojo-yeswehack.com/learn) This website offers many lessons targeting specific CWEs and Bug Categories that are highly relevant for Bug Bounty Programs. In addition to that, there are monthly challenges where the winner gets free Swag.
+- [CyberPython](https://pythoncyber.go.ro) This platform makes you to do your own research in order to solve some challenges, it's totally free, you need just a free account.
 ## Pentesting
 - [APISec UNiversity](https://www.apisecuniversity.com/) (Cert) Free couses about API pentesting and security.
 - [Ethical Hacking Essentials](https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false) (Cert) Fundamentals course about Ethical Hacking on EC-Councils Code Red.
