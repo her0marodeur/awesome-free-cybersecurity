@@ -27,6 +27,10 @@ If you have any further resources, feel free to open a pull request.
 - [Digital Forensics Essentials](https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false) (Cert) Fundamentals course about DFIR on EC-Councils Code Red.
 - [Network Defense Essentials](https://codered.eccouncil.org/course/network-defense-essentials?logged=false) (Cert) Fundamentals course about Network Defense on EC-Councils Code Red.
 - [SANS Summits](https://www.sans.org/cyber-security-training-events/) SANS hosts different summits throughout the year, many of them are only and free and you can check the replays [here](https://www.youtube.com/@SANSCyberDefense/playlists).
+- [Flowtriq CDDP - Certified DDoS Protection Practitioner](https://flowtriq.com/certifications) (Cert) Foundational certification covering DDoS attack types, detection methods, and mitigation strategies.
+- [Flowtriq CDME - Certified DDoS Mitigation Engineer](https://flowtriq.com/certifications) (Cert) Advanced certification on FlowSpec rule design and auto-escalation workflows for DDoS mitigation.
+- [Flowtriq CDIC - Certified DDoS Incident Commander](https://flowtriq.com/certifications) (Cert) Expert-level certification focused on incident response leadership and war room coordination during DDoS attacks.
+- [Flowtriq CFC - Certified Flowtriq Consultant](https://flowtriq.com/certifications) (Cert) Professional credential for DDoS protection consulting, includes a LinkedIn badge upon completion.
 
 ## OSINT
 - [SANS OSINT Summit](https://www.sans.org/cyber-security-training-events/osint-summit-2023/) Yearly free OSINT summit. The replays can be watched [here](https://www.youtube.com/@SANSCyberDefense/playlists).
