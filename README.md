@@ -16,6 +16,7 @@ If you have any further resources, feel free to open a pull request.
 - [VulnHub](https://www.vulnhub.com/) They provide free to download vulnerable machines.
 - [YesWeHack Dojo](https://dojo-yeswehack.com/learn) This website offers many lessons targeting specific CWEs and Bug Categories that are highly relevant for Bug Bounty Programs. In addition to that, there are monthly challenges where the winner gets free Swag. 
 - [hextree.io](https://www.hextree.io/) A Website that offers several different courses for free as well as some paid ones. Reverse Engineering (free), Hardware Hacking (free), Web Security and Android (free). 
+- [OnlySecurity](https://onlysecurity.com/learning-paths/) (Cert) Free hands-on courses and learning paths on lock picking with SPARROWS, Proxmark RFID, Hak5 Wi-Fi and USB implant tools, and Electronic Cats IoT hardware. A free account is required.
 
 ## Pentesting
 - [APISec UNiversity](https://www.apisecuniversity.com/) (Cert) Free courses about API pentesting and security.
